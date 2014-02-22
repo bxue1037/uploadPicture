@@ -5,7 +5,7 @@
 * Author:        Tzuly <tzulac@gmail.com>
 * Last modified: 22-feb-2014
 * 
-* GNU General Public License (Version 2, June 1991)
+* Free for use
 */
 
 class UploadPicture
