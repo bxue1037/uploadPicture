@@ -1,7 +1,7 @@
 <?php
 
 include "UploadPicture.php";
-/*
+
 //save just image without any other parameters
 //this usage will save file in current directory at given size and without compression
 $upload = new UploadPicture();
@@ -28,7 +28,7 @@ try {
 } catch (\Exception $exc) {
     //do what you want in case of error
 }
- */
+
 //save file with desired name, with desired size and at compression of 90
 //compression of file offer a good usage of disk
 $upload3 = new UploadPicture();
